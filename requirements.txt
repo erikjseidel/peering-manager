@@ -20,3 +20,4 @@ pynetbox==7.0.1
 PyYAML==6.0
 requests==2.31.0
 tzdata==2023.3
+rq==1.13.0
